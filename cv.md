@@ -1,5 +1,6 @@
 # Dudinskiy Victor
-![foto](https://DudinskiyVN.github.io/rsschool-cv/20240629_083056.jpg)  
+ 
+![foto](foto.jpg)  
 Сitizenship: belarus  
 Place of residence: 
 *dudinskiyvn@gmail.com*  
