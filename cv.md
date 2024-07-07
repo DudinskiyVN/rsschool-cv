@@ -9,7 +9,7 @@ Email: dudinskiyvn@gmail.com
 Discord: dudinskiyvn  
 
 # Objective  
-I want to take preparatory courses at RSSchool and see my Score  
+I want to take preparatory courses at RSSchool and see my Score.  
 
 # Education  
 The Belarusian National Technical University  
