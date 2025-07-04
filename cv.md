@@ -30,3 +30,7 @@ Study of English
 -- fishing  
 -- driving  
 ---
+# Example of code
+`function multiply(a, b){` <br>
+`  a * b`\
+`}`
